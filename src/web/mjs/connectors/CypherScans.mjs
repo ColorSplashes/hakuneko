@@ -7,7 +7,7 @@ export default class CypherScans extends WordPressMangastream {
         super.id = 'cypherscans';
         super.label = 'Cypher Scans';
         this.tags = [ 'manga', 'manhwa', 'manhua', 'english' ];
-        this.url = 'https://cypherscans.xyz';
+        this.url = 'https://cypheroscans.xyz/';
         this.path = '/manga/list-mode/';
     }
 }
